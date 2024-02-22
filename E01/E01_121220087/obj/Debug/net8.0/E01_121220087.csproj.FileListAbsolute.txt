@@ -1,0 +1,14 @@
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\bin\Debug\net8.0\E01_121220087.exe
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\bin\Debug\net8.0\E01_121220087.deps.json
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\bin\Debug\net8.0\E01_121220087.runtimeconfig.json
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\bin\Debug\net8.0\E01_121220087.dll
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\bin\Debug\net8.0\E01_121220087.pdb
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\obj\Debug\net8.0\E01_121220087.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\obj\Debug\net8.0\E01_121220087.AssemblyInfoInputs.cache
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\obj\Debug\net8.0\E01_121220087.AssemblyInfo.cs
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\obj\Debug\net8.0\E01_121220087.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\obj\Debug\net8.0\E01_121220087.dll
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\obj\Debug\net8.0\refint\E01_121220087.dll
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\obj\Debug\net8.0\E01_121220087.pdb
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\obj\Debug\net8.0\E01_121220087.genruntimeconfig.cache
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\E01\E01_121220087\obj\Debug\net8.0\ref\E01_121220087.dll
