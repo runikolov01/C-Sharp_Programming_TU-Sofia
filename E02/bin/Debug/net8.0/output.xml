@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <Contact>
+    <Name>Иван</Name>
+    <ID>608310</ID>
+    <PhoneNumber />
+  </Contact>
+  <Contact>
+    <Name>Георги</Name>
+    <ID>706038</ID>
+    <PhoneNumber>+395 893 87 43</PhoneNumber>
+  </Contact>
+  <Contact>
+    <Name>Александра</Name>
+    <ID>+395 159 88 90  268742  Христо</ID>
+    <PhoneNumber />
+  </Contact>
+  <Contact>
+    <Name>+395 116 12 71</Name>
+    <ID>355175 +395 905 88 97</ID>
+    <PhoneNumber />
+  </Contact>
+  <Contact>
+    <Name>Марин</Name>
+    <ID>+395 725 12 83</ID>
+    <PhoneNumber />
+  </Contact>
+  <TimeStamp>2024-03-07T09:41:44</TimeStamp>
+</Contacts>
