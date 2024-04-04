@@ -1,0 +1,15 @@
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\E04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\E04.AssemblyInfoInputs.cache
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\E04.AssemblyInfo.cs
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\E04.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\E04.sourcelink.json
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\bin\Debug\net8.0\E04.exe
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\bin\Debug\net8.0\E04.deps.json
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\bin\Debug\net8.0\E04.runtimeconfig.json
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\bin\Debug\net8.0\E04.dll
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\bin\Debug\net8.0\E04.pdb
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\E04.dll
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\refint\E04.dll
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\E04.pdb
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\E04.genruntimeconfig.cache
+C:\Users\Rumen Nikolov\Documents\TU-Sofia\IV_kurs(2023-2024)\VIII_semestur\ПРС\Exercises\C-Sharp_Programming_TU-Sofia\E04\E04\obj\Debug\net8.0\ref\E04.dll

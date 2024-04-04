@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\ПРС\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\E04.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\ПРС\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\E04.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\ПРС\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\E04.csproj",
+        "projectName": "E04",
+        "projectPath": "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\ПРС\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\E04.csproj",
+        "packagesPath": "C:\\Users\\Rumen Nikolov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\ПРС\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rumen Nikolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

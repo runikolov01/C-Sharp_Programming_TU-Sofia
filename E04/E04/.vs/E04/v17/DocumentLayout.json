@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\\u041F\u0420\u0421\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DD328F-E595-446E-BEE3-3228C404A0D7}|Solution Items{F1DD328F-E595-446E-BEE3-3228C404A0D7}|C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\\u041F\u0420\u0421\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\ChatRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DD328F-E595-446E-BEE3-3228C404A0D7}|Solution Items{F1DD328F-E595-446E-BEE3-3228C404A0D7}|solutionrelative:ChatRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E1E4D-EEBE-4FAE-BF61-75D817E99EBA}|E04.csproj|c:\\users\\rumen nikolov\\documents\\tu-sofia\\iv_kurs(2023-2024)\\viii_semestur\\\u043F\u0440\u0441\\exercises\\c-sharp_programming_tu-sofia\\e04\\e04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2E1E4D-EEBE-4FAE-BF61-75D817E99EBA}|E04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\\u041F\u0420\u0421\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "ChatRoom.cs",
+              "ToolTip": "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\\u041F\u0420\u0421\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\ChatRoom.cs",
+              "RelativeToolTip": "ChatRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:59:50.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\\u041F\u0420\u0421\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rumen Nikolov\\Documents\\TU-Sofia\\IV_kurs(2023-2024)\\VIII_semestur\\\u041F\u0420\u0421\\Exercises\\C-Sharp_Programming_TU-Sofia\\E04\\E04\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:59:13.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
